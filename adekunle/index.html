@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Interactive Visualisation</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="./index.css" />
+
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <a href="../index.html" id="logo">
+          <img src="/assets/teesside.png" alt="Teeside-logo" />
+        </a>
+        <i class="fas fa-bars" id="ham-menu"></i>
+        <ul id="nav-bar">
+          <li><a href="../index.html">Home</a></li>
+          <li><a href="/chijioke/index.html">Chijioke</a></li>
+          <li><a href="/paulinus/index.html">Paulinus</a></li>
+          <li><a href="/osagie/index.html">Osagie</a></li>
+          <li><a href="/adekunle/index.html">Adekunle</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <section>
+      <h1 class="title m">Employee Attrition by Job Role</h1>
+      <div class="box">
+        <button
+        >
+        </button>
+
+        <button
+        >
+        
+        </button>
+        <div class="barChart"></div>
+
+        <script>
+          function Overall() {
+            d3.select("svg").remove();
+            d3.json("NewDataset.json").then(getavg);
+            function getavg(jsondata) {
+              Remain = jsondata.map((d) => d.Remain);
+              Leave = jsondata.map((d) => d.Leave);
+
+              RemAvg = d3.mean(Remain);
+              LevAvg = d3.mean(Leave);
+
+              // set the dimensions and margins of the graph
+              var width = document.getElementsByClassName("box")[0].clientWidth;
+              height = 500;
+              margin = 40;
+
+              // The radius of the pieplot is half the width or half the height (smallest one). I subtract a bit of margin.
+              var radius = Math.min(width, height) / 2 - margin;
+
+              // append the svg object to the div called 'my_dataviz'
+              var svg = d3
+                .select(".barChart")
+                .append("svg")
+                .attr("width", width)
+                .attr("height", height)
+                .append("g")
+                .attr(
+                  "transform",
+                  "translate(" + width / 2 + "," + height / 2 + ")"
+                );
+
+              svg
+                .append("text")
+                .attr("text-anchor", "end")
+                .attr("x", -500)
+                .attr("y", -200)
+                .style("font", "25px Arial")
+                .text("BREXIT Voting - North East")
+                .attr("text-anchor", "start");
+
+              // Create dummy data
+              var avg = [
+                { label: "Remain", value: RemAvg },
+                { label: "Leave", value: LevAvg },
+              ];
+              console.log(avg);
+
+              // set the color scale
+              var color = d3
+                .scaleOrdinal()
+                // .domain(avg)
+                .range(["#006778", "#fa9191", "#346751", "#C84B31", "#333C83"]);
+
+              // Compute the position of each group on the pie:
+              var pie = d3
+                .pie()
+                .value(function (d) {
+                  return d.value;
+                })
+                .sort(null);
+
+              var tooltip = d3
+                .select(".barChart")
+                .append("div")
+                .style("opacity", 0)
+                .style("position", "absolute")
+                .style("background-color", "white")
+                .style("border", "solid")
+                .style("box-shadow", "5px 5px #888888")
+                .style("border-width", "1px")
+                .style("border-radius", "5px")
+                .style("padding", "10px");
+
+              var mousemove = function (d) {
+                Cat = d3.select(this).datum().data.label;
+                console.log(d3.select(this).datum());
+                per = d3.select(this).datum().value;
+                tooltip
+                  .html(
+                    "<strong> Category: </strong>" +
+                      Cat +
+                      "<br> <br>" +
+                      "<strong> percent: </strong> " +
+                      per +
+                      "%"
+                  )
+                  .style("opacity", 1)
+                  .style("font", "14px Arial")
+                  .style("left", d.pageX + 20 + "px")
+                  .style("top", d.pageY + "px");
+                d3.selectAll(".mypath").style("opacity", 0.2);
+                d3.selectAll("." + Cat).style("opacity", 1);
+              };
+
+              var mouseleave = function (d) {
+                JobRole = null;
+                d3.selectAll(".mypath").style("opacity", 1);
+                tooltip.style("opacity", 0);
+              };
+
+              // Build the pie chart: Basically, each part of the pie is a path that we build using the arc function.
+              svg
+                .selectAll("path")
+                .data(pie(avg))
+                .enter()
+                .append("path")
+                .attr(
+                  "d",
+                  d3
+                    .arc()
+                    .innerRadius(100) // This is the size of the donut hole
+                    .outerRadius(radius)
+                )
+                .attr("fill", function (d) {
+                  return color(d.data.label);
+                })
+                .attr("class", function (d) {
+                  return "mypath " + d.data.label;
+                })
+                .attr("stroke", "black")
+                .style("stroke-width", "2px")
+                .style("opacity", 1.0)
+
+                .on("mousemove", mousemove)
+                .on("mouseleave", mouseleave);
+
+              var legendItemSize = 18;
+              var legendSpacing = 4;
+
+              var legend = svg
+                .selectAll(".legend")
+                .data(color.domain())
+                .enter()
+                .append("g")
+                .attr("class", "legend")
+                .attr("transform", (d, i) => {
+                  var height = legendItemSize + legendSpacing;
+                  var offset = (height * color.domain().length) / 2;
+                  var x = legendItemSize * -2;
+                  var y = i * height - offset;
+                  return `translate(${x}, ${y})`;
+                });
+
+              legend
+                .append("rect")
+                .attr("width", legendItemSize)
+                .attr("height", legendItemSize)
+                .style("fill", color);
+
+              legend
+                .append("text")
+                .style("font", "14px Arial")
+                .attr("x", legendItemSize + legendSpacing)
+                .attr("y", legendItemSize - legendSpacing)
+                .text((d) => d);
+            }
+          }
+
+          function Regional() {
+            d3.select("svg").remove();
+            let headers = [];
+            let JobRole = null;
+            d3.csv("attrition.csv").then(function (data) {
+              headers = data.columns.slice(1);
+            });
+            d3.json("attrition.json").then(createChart);
+            function createChart(jsondata) {
+              console.log(jsondata);
+              labels = jsondata.map((d) => d.JobRole);
+              console.log(labels);
+              console.log(headers);
+              const margin = { top: 50, right: 30, bottom: 85, left: 30 },
+                width =
+                  document.getElementsByClassName("box")[0].clientWidth -
+                  margin.left -
+                  margin.right,
+                height = 700 - margin.top - margin.bottom;
+
+              const svg = d3
+                .select(".barChart")
+                .append("svg")
+                .attr("width", width + margin.left + margin.right)
+                .attr("height", height + margin.top + margin.bottom)
+                .append("g")
+                .attr(
+                  "transform",
+                  "translate(" + margin.left + "," + margin.top + ")"
+                );
+
+              const x = d3
+                .scaleBand()
+                .domain(labels)
+                .range([0, width])
+                .padding([0.2]);
+              svg
+                .append("g")
+                .attr("transform", "translate(0," + height + ")")
+                .call(d3.axisBottom(x))
+                .style("font", "12px Arial");
+
+              svg
+                .append("text")
+                .attr("text-anchor", "end")
+                .style("font", "20px Arial")
+                .attr("x", width / 2)
+                .attr("y", height + 50)
+                .text("JobRole");
+
+              const y = d3.scaleLinear().domain([0, 100]).range([height, 0]);
+              svg.append("g").call(d3.axisLeft(y));
+              svg
+                .append("text")
+                .attr("text-anchor", "end")
+                .attr("x", 0)
+                .attr("y", -20)
+                .style("font", "20px Arial")
+                .text("Percentage of Attrition")
+                .attr("text-anchor", "start");
+              svg
+                .append("text")
+                .attr("text-anchor", "end")
+                .attr("x", width / 2 - 150)
+                .attr("y", 0)
+                .style("font", "25px Arial")
+                .attr("text-anchor", "start");
+
+              var xSubgroup = d3
+                .scaleBand()
+                .domain(headers)
+                .range([0, x.bandwidth()]);
+
+              var color = d3
+                .scaleOrdinal()
+                .domain(headers)
+                .range(["#006778", "#fa9191", "#346751", "#C84B31", "#333C83"]);
+
+              var size = 20;
+              legends = ["Percentage Remain", "Percentage Leave"];
+
+              var legendcolor = d3
+                .scaleOrdinal()
+                .domain(legends)
+                .range(["#006778", "#fa9191", "#346751", "#C84B31", "#333C83"]);
+
+              svg
+                .selectAll("myrect")
+                .data(legends)
+                .enter()
+                .append("circle")
+                .attr("cx", 1200)
+                .attr("cy", function (d, i) {
+                  return 10 + i * size;
+                })
+                .attr("r", 7)
+                .attr("style", "fill-opacity:1; stroke:black;stroke-width:2px")
+                .style("fill", function (d) {
+                  return legendcolor(d);
+                });
+
+              svg
+                .selectAll("mylabels")
+                .data(legends)
+                .enter()
+                .append("text")
+                .attr("x", 1200 + size * 0.8)
+                .attr("y", function (d, i) {
+                  return i * size + size / 2;
+                })
+                .style("fill", "Black")
+                .text(function (d) {
+                  return d;
+                })
+                .attr("text-anchor", "left")
+                .style("font", "14px Arial")
+                .style("alignment-baseline", "middle");
+
+              var tooltip = d3
+                .select(".barChart")
+                .append("div")
+                .style("opacity", 0)
+                .style("position", "absolute")
+                // .style("background-image", "linear-gradient(#00008B, white, #FF0000)")
+                .style("background-color", "white")
+                .style("border", "solid")
+                .style("box-shadow", "5px 5px #888888")
+                .style("border-width", "1px")
+                .style("border-radius", "5px")
+                .style("padding", "10px");
+
+              var mousemove = function (d) {
+                Region = d3.select(this).datum().JobRole;
+                JobRole = d3.select(this).datum().JobRole.slice(0, 6);
+                var hoverData = d3.select(this).datum();
+                var Remain = hoverData.Remain;
+                var Leave = hoverData.Leave;
+                tooltip
+                  .html(
+                    "Jobrole: " +
+                      Region +
+                      "<br>" +
+                      "Remain: " +
+                      Remain +
+                      "%" +
+                      "<br>" +
+                      "Leave: " +
+                      Leave +
+                      "%"
+                  )
+                  .style("opacity", 1)
+                  .style("font", "16px Times")
+                  .style("left", d.pageX + 20 + "px")
+                  .style("top", d.pageY + "px");
+                d3.selectAll(".myRect").style("opacity", 0.2);
+                d3.selectAll(String("." + JobRole)).style("opacity", 1);
+              };
+
+              var mouseleave = function (d) {
+                JobRole = null;
+                d3.selectAll(".myRect").style("opacity", 1);
+                tooltip.style("opacity", 0);
+              };
+
+              svg
+                .append("g")
+                .selectAll("g")
+                .data(jsondata)
+                .enter()
+                .append("g")
+                .attr("transform", function (d) {
+                  return "translate(" + x(d.JobRole) + ",0)";
+                })
+                .attr("class", function (d) {
+                  return "myRect " + d.JobRole.slice(0, 6);
+                })
+                .on("mousemove", mousemove)
+                .on("mouseleave", mouseleave)
+                .selectAll("rect")
+                .data(function (d) {
+                  return headers.map(function (key) {
+                    return { key: key, value: d[key] };
+                  });
+                })
+                .enter()
+                .append("rect")
+                .attr("width", xSubgroup.bandwidth())
+                .attr("x", function (d) {
+                  return xSubgroup(d.key);
+                })
+                .attr("fill", function (d) {
+                  return color(d.key);
+                });
+
+              svg
+                .selectAll("rect")
+                .transition()
+                .ease(d3.easeBounce)
+                .duration(1500)
+                .attr("y", function (d) {
+                  return y(d.value);
+                })
+                .attr("rx", 10)
+                .attr("style", "stroke:black;stroke-width:2px;")
+                .attr("height", function (d) {
+                  return height - y(d.value);
+                })
+                .delay(function (d, i) {
+                  return i * 100;
+                });
+            }
+          }
+
+          Regional();
+        </script>
+      </div>
+    </section>
+    <footer>All Rights Reserved 2023</footer>
+    <script src="../index.js"></script>
+  </body>
+</html>

@@ -1,0 +1,4002 @@
+[
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 94
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 61
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 92
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 56
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 40
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 79
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 81
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 67
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 44
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 94
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 84
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 49
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 31
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 93
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 50
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 51
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 80
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 96
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 78
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 45
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 96
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 82
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 53
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 96
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 83
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 58
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 72
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 48
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 42
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 83
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 78
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 41
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 83
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 56
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 61
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 72
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 86
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 97
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 82
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 42
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 75
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 33
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 48
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 37
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 58
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 49
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 72
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 73
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 98
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 36
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 98
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 50
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 75
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 79
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 47
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 98
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 71
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 30
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 48
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 51
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 33
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 50
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 43
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 99
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 59
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 33
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 95
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 59
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 79
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 79
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 57
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 76
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 87
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 66
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 55
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 61
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 32
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 52
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 30
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 80
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 55
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 30
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 70
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 79
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 94
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 49
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 62
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 96
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 99
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 64
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 78
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 71
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 63
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 40
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 87
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 60
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 33
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 43
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 37
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 67
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 63
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 71
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 66
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 41
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 100
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 32
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 73
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 46
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 64
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 59
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 30
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 66
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 30
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 52
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 45
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 87
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 45
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 92
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 39
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 92
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 96
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 95
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 72
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 51
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 76
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 46
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 94
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 50
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 100
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 96
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 72
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 77
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 71
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 96
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 61
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 84
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 53
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 47
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 41
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 48
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 41
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 83
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 32
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 75
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 35
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 84
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 35
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 91
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 94
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 79
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 54
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 94
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 34
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 60
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 43
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 41
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 34
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 75
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 67
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 75
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 80
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 57
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 42
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 83
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 79
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 53
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 56
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 41
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 59
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 43
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 51
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 100
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 30
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 66
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 30
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 67
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 90
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 47
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 92
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 75
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 95
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 95
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 70
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 86
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 57
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 72
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 46
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 61
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 45
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 98
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 65
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 99
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 50
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 37
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 65
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 65
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 37
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 36
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 88
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 54
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 60
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 92
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 43
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 99
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 70
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 35
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 60
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 73
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 63
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 97
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 32
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 88
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 90
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 81
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 88
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 75
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 52
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 85
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 57
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 52
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 62
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 47
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 47
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 76
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 90
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 70
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 41
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 42
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 92
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 86
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 89
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 58
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 52
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 68
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 58
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 80
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 39
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 79
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 56
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 62
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 96
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 100
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 36
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 62
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 70
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 73
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 63
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 84
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 83
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 77
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 61
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 64
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 60
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 82
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 45
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 62
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 56
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 49
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 96
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 71
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 100
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 39
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 84
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 75
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 79
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 78
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 64
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 85
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 79
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 47
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 81
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 88
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 94
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 98
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 100
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 80
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 71
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 44
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 84
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 96
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 45
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 99
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 44
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 37
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 60
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 42
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 43
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 82
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 45
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 66
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 35
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 30
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 84
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 48
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 53
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 77
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 54
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 96
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 81
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 84
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 88
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 69
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 68
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 100
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 48
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 47
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 91
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 81
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 32
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 86
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 62
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 97
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 32
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 74
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 99
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 33
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 90
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 85
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 85
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 65
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 74
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 73
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 74
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 84
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 64
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 48
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 54
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 41
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 46
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 42
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 82
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 73
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 31
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 43
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 75
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 57
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 77
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 30
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 30
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 56
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 61
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 92
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 39
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 39
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 62
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 83
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 95
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 99
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 44
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 61
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 52
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 75
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 91
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 51
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 85
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 57
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 98
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 99
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 45
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 48
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 88
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 46
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 39
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 34
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 98
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 30
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 56
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 100
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 68
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 42
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 90
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 54
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 97
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 82
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 92
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 31
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 87
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 96
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 67
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 97
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 77
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 72
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 73
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 43
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 61
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 40
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 95
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 46
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 95
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 49
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 59
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 78
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 86
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 72
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 31
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 61
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 74
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 99
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 72
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 98
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 52
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 86
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 83
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 49
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 79
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 91
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 39
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 69
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 30
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 92
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 43
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 41
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 87
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 88
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 62
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 33
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 42
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 79
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 90
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 53
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 93
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 71
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 52
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 69
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 56
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 88
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 49
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 80
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 65
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 51
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 46
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 42
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 62
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 94
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 33
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 56
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 38
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 57
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 72
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 66
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 43
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 97
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 32
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 99
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 37
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 83
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 56
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 85
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 75
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 48
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 77
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 56
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 61
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 58
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 34
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 95
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 44
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 69
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 58
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 62
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 45
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 80
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 74
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 66
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 59
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 86
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 91
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 69
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 78
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 60
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 38
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 76
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 65
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 58
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 89
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 66
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 94
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 99
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 40
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 55
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 74
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 83
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 46
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 54
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 66
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 66
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 75
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 83
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 81
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 50
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 43
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 72
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 40
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 50
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 31
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 85
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 49
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 35
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 69
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 39
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 92
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 71
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 34
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 42
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 100
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 71
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 36
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 62
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 82
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 30
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 88
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 48
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 54
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 32
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 70
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 41
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 58
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 57
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 46
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 76
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 56
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 71
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 80
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 74
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 46
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 65
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 80
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 55
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 50
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 33
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 68
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 39
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 42
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 48
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 59
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 73
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 84
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 32
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 59
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 54
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 67
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 63
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 81
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 49
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 49
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 99
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 99
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 57
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 47
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 96
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 37
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 44
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 81
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 86
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 55
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 83
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 86
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 61
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 80
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 92
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 32
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 31
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 63
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 32
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 46
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 79
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 77
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 60
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 78
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 76
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 41
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 71
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 66
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 38
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 72
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 95
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 84
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 82
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 75
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 86
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 72
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 38
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 38
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 93
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 66
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 63
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 60
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 82
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 64
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 36
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 49
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 69
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 33
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 35
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 81
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 31
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 40
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 43
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 46
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 36
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 98
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 51
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 52
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 95
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 98
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 45
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 100
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 43
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 37
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 94
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 42
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 59
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 81
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 88
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 88
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 50
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 66
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 50
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 65
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 48
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 53
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 56
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 73
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 75
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 78
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 74
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 91
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 81
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 66
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 63
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 33
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 62
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 35
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 77
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 98
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 66
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 96
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 61
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 87
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 36
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 46
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 48
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 98
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 95
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 48
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 48
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 73
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 78
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 54
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 72
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 33
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 35
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 32
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 98
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 42
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 57
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 87
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 62
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 61
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 98
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 57
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 55
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 49
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 65
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 68
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 65
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 34
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 57
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 77
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 70
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 76
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 83
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 68
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 100
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 37
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 41
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 51
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 51
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 51
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 45
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 65
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 80
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 70
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 36
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 67
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 52
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 59
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 79
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 37
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 84
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 41
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 35
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 93
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 51
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 42
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 46
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 57
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 84
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 86
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 70
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 51
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 45
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 62
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 85
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 92
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 41
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 100
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 64
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 84
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 46
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 38
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 92
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 53
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 91
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 66
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 84
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 64
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 37
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 42
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 83
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 48
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 95
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 66
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 75
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 41
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 39
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 96
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 73
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 56
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 57
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 73
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 98
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 60
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 32
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 94
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 97
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 78
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 42
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 65
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 47
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 45
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 90
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 64
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 69
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 61
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 62
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 55
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 42
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 79
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 57
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 53
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 95
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 43
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 82
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 88
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 90
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 69
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 75
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 66
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 36
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 38
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 81
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 57
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 87
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 74
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 44
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 62
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 35
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 74
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 66
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 40
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 41
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 63
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 51
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 40
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 79
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 54
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 36
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 74
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 34
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 72
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 59
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 85
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 43
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 65
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 61
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 87
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 65
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 59
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 91
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 34
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 86
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 54
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 50
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 45
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 88
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 32
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 37
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 55
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 35
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 45
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 81
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 30
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 40
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 35
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 65
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 87
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 73
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 93
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 93
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 52
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 32
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 83
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 84
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 44
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 70
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 70
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 78
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 67
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 67
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 54
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 56
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 95
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 61
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 56
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 79
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 37
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 39
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 80
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 77
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 46
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 72
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 52
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 55
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 70
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 100
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 45
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 88
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 44
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 45
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 58
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 49
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 79
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 82
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 72
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 92
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 44
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 97
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 47
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 85
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 76
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 92
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 54
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 54
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 83
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 56
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 87
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 96
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 50
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 69
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 48
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 69
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 74
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 99
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 95
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 61
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 62
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 30
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 78
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 52
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 94
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 97
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 82
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 60
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 49
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 32
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 43
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 60
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 79
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 52
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 77
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 38
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 77
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 60
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 84
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 57
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 63
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 60
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 78
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 42
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 53
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 72
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 96
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 97
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 85
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 80
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 96
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 48
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 96
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 85
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 46
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 76
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 76
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 82
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 76
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 87
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 89
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 88
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 82
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 57
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 47
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 73
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 53
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 94
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 37
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 45
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 33
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 86
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 83
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 67
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 46
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 44
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 92
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 56
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 66
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 78
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 56
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 53
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 73
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 52
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 40
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 72
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 39
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 84
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 40
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 56
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 83
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 94
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 88
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 79
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 93
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 48
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 63
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 44
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 55
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 43
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 57
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 64
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 95
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 32
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 57
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 40
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 54
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 89
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 37
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 58
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 99
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 74
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 86
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 98
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 66
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 87
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 84
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 31
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 66
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 67
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 53
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 88
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 83
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 54
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 98
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 82
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 97
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 60
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 43
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 85
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 68
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 92
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 89
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 86
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 90
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 67
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 57
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 98
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 48
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 98
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 44
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 52
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 75
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 54
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 61
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 36
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 71
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 93
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 59
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 73
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 98
+ },
+ {
+   "Attrition": "Yes",
+   "HourlyRate": 51
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 36
+ },
+ {
+   "Attrition": "No",
+   "HourlyRate": 31
+ }
+]

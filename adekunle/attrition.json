@@ -1,0 +1,48 @@
+[
+  {
+    "JobRole": "Healthcare Representative",
+    "Remain": 93.1,
+    "Leave": 6.9
+  },
+  {
+    "JobRole": "Human Resources",
+    "Remain": 76.9,
+    "Leave": 23.1
+  },
+   {
+    "JobRole": "Laboratory Technician",
+    "Remain": 76.1,
+    "Leave": 23.9
+  },
+   {
+    "JobRole": "Manager",
+    "Remain": 95.1,
+    "Leave": 4.9
+  },
+  {
+    "JobRole": "Manufacturing Director",
+    "Remain": 93.1,
+    "Leave": 6.9
+  },
+  {
+    "JobRole": "Research Director",
+    "Remain": 97.5,
+    "Leave": 2.5
+  },
+  {
+    "JobRole": "Research Scientist",
+    "Remain": 83.9,
+    "Leave": 16.1
+  },
+  {
+    "JobRole": "Sales Executive",
+    "Remain": 82.5,
+    "Leave": 17.5
+  },
+  {
+    "JobRole": "Sales Representative",
+    "Remain": 60.2,
+    "Leave": 39.8
+  }
+]
+   

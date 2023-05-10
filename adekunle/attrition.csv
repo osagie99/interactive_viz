@@ -1,0 +1,10 @@
+JobRole ,sum_of_employee,Remain,Leave,% Remain,% Leave
+Healthcare Representative,131,122,9,93.13,6.9
+Human Resources,52,40,12,96.9,23.1
+Laboratory Technician,259,197,62,70.1,23.9
+Manager,102,97,5,95.1,4.9
+Manufacturing Director,145,135,10,93.1,6.9
+Research Director,80,78,2,97.5,2.5
+Research Scientist,292,245,47,83.9,16.1
+Sales Executive,326,269,57,82.5,17.5
+Sales Representative,83,50,33,60.2,39.8

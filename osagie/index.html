@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Attrition BoxPlot</title>
+    <!-- Load d3.js -->
+     <script src="https://d3js.org/d3.v7.min.js"></script>
+    <link rel="stylesheet" href="./index.css" />
+  </head>
+  <header>
+      <nav>
+        <a href="../index.html" id="logo">
+          <img src="/assets/teesside.png" alt="Teeside-logo"/>
+        </a>
+        <i class="fas fa-bars" id="ham-menu"></i>
+        <ul id="nav-bar">
+          <li><a href="../index.html">Home</a></li>
+          <li><a href="/chijioke/index.html">Chijioke</a></li>
+          <li><a href="/paulinus/index.html">Paulinus</a></li>
+          <li><a href="/osagie/index.html">Osagie</a></li>
+          <li><a href="/adekunle/index.html">Adekunle</a></li>
+        </ul>
+      </nav>
+    </header>
+  <body>
+    
+    <section>
+    <div class="box">
+      <h1 class="title" style="padding: 0 0;">Staff Turnover by Department</h1>
+     
+       <div class="title row align-items-center m">
+
+          <h3 class="title" >Filter</h3> 
+          <div class="toggleBtn">
+            <button id="remain">Remain</button>
+            <button id="leave" disabled>Leave</button>
+         </div>
+     
+       </div>
+   <!-- Create a div where the graph will take place -->
+   <div class="lollipopchart"></div>
+
+ 
+
+ </section>
+   <footer>
+    All Rights Reserved 2023
+ </footer>
+    <script src="index.js"></script>
+    <script src="../index.js"></script>
+  </body>
+</html>
